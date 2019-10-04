@@ -9,3 +9,7 @@
 function twoSum(arr, target) {}
 
 module.exports = twoSum;
+
+const hello = ['Hello']
+
+if (x.length )

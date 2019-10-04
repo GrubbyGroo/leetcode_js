@@ -1,0 +1,24 @@
+{
+  "name": "leetcode_js",
+  "version": "1.0.0",
+  "description": "This is the template code for the [JavaScript & LeetCode: The Ultimate Interview Bootcamp course](https://www.udemy.com/ultimate-javascript-leetcode-interview-bootcamp/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaeducation/LeetCode_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaeducation/LeetCode_JS/issues"
+  },
+  "homepage": "https://github.com/kaeducation/LeetCode_JS#readme",
+  "devDependencies": {
+    "eslint": "^6.5.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
